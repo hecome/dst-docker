@@ -1,5 +1,5 @@
 
-#　dst-docker启动流程
+# dst-docker启动流程
 需要安装```docker 以及 docker compose```环境
 
 １、　将打包好的```dst.jar```放入当前目录
